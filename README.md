@@ -7,6 +7,7 @@ Execution: Run the following command in the project root folder:
 docker-compose up --build
 
 What happens under the hood:
+
 Database: Sets up a PostgreSQL container.
 
 Sync: Automatically runs Prisma migrations/push to sync the schema.
