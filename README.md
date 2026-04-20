@@ -1,5 +1,6 @@
 # node-prisma-postgres-assessment
 How to Run:
+
 Prerequisites: Ensure you have Docker Desktop installed and running.
 
 Execution: Run the following command in the project root folder:
@@ -20,6 +21,7 @@ Result: You should see Success: User joined game in the terminal logs.
 הרצה: הריצו את הפקודה הבאה בטרמינל מתוך תיקיית הפרויקט:
 
 docker-compose up --build
+
 מה המערכת מבצעת:
 מסד נתונים: הקמת קונטיינר PostgreSQL.
 
