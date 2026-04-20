@@ -17,7 +17,7 @@ App: Executes main.js to demonstrate the business logic.
 
 Result: You should see Success: User joined game in the terminal logs.
 
-הוראות הרצה
+הוראות הרצה:
 
 דרישות קדם: ודאו שתוכנת Docker Desktop מותקנת ופעילה.
 
